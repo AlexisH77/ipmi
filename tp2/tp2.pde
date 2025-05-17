@@ -1,5 +1,5 @@
 //ALEXIS HURTADO LEGAJO: 122733/0
-//presionar la tecla "ENTER" para reiniciar
+//presionar la tecla "ENTER" para reiniciar o Hacer click en el boto "reniciar"
 
 PImage P, foto2, foto3, espada;
 PFont fuente;
