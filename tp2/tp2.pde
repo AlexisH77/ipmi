@@ -1,4 +1,4 @@
-//ALEXIS HURTADO LEGAJO: 122733/0
+//ALEXIS HURTADO  Comision:1 LEGAJO: 122733/0
 //presionar la tecla "ENTER" o hacer en el boton para reiniciar
 
 PImage P, foto2, foto3, espada;
